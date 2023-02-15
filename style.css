@@ -1,0 +1,121 @@
+#seven
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#eigth
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#nine
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#mul
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#four
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#five
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#six
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#sub
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#one
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#two
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#three
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#add
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#del
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#zero
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#div
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#equal
+{
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#ac
+{
+    width: 212px;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#dot
+{   
+    width: 45px;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+#result
+{
+    /* border-radius:10px; */
+    box-shadow: 0px 0px 2px 2px rgb(246, 244, 244);
+}
+.container
+{
+    border-radius: 12px;
+    padding: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+#p2
+{
+   text-align: right;
+}
+body
+{
+    background-image: url('https://th.bing.com/th/id/OIP.ZfWF34ga99OWM2X9Z1FIOQHaEo?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+@keyframes example
+     {
+    from {background-color: red;}
+    to {background-color: yellow;}
+   }
